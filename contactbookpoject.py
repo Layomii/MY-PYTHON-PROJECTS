@@ -1,6 +1,7 @@
 #dictionary has been stored in contacts
 contacts = {'Jesulayomi': '09022183739', 'Tofunmi': '08144174291', 'Sunmbo': '08035667878'}
 
+#enter name only if it is true
 while True:
     print('Enter a name:(blank to quit)')
     name = input()
